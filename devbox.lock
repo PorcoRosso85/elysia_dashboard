@@ -1,0 +1,22 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "bun@latest": {
+      "last_modified": "2023-10-15T14:24:03Z",
+      "resolved": "github:NixOS/nixpkgs/12bdeb01ff9e2d3917e6a44037ed7df6e6c3df9d#bun",
+      "source": "devbox-search",
+      "version": "1.0.6",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/gxas9xhv1p6r2xwlv2z7r52a2jf3cl12-bun-1.0.6"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/n9dbj5y1h4cbf5m0v7ndhfnj3dlkj8c1-bun-1.0.6"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/r4wcvzs60gfxyl932fvx3hr71siyhjbi-bun-1.0.6"
+        }
+      }
+    }
+  }
+}
